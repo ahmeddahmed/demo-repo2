@@ -8,10 +8,3 @@ a lot of sence so lets get a new package and call it the one on the desk
 
 1 creating a new breanch to fix the bug
 2 adding the <body> wasnt there that wrong !!
-
-# have fun
-
-fun is a very happy feling that overminds the mind
-to the point were you find people that do stupid
-and unrenible things to make themselves even less
-happy that why perpuse matter a lot more (Faith)
